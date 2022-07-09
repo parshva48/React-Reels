@@ -1,0 +1,20 @@
+.wrap-div{
+    height: 50vh;
+    width: 25vw;
+}
+@media only screen and (max-width:1024px){
+    .wrap-div{
+        height: 50vh;
+        width: 50vw;
+    }
+
+    
+}
+@media only screen and (max-width:475px){
+    .wrap-div{
+        height: 50vh;
+        width: 80vw;
+    }
+
+    
+}

@@ -1,0 +1,16 @@
+.reels-container{
+    height: 80vh;
+    border-radius: 20px;
+    background-color: white;
+    overflow: scroll;
+    scroll-snap-type: y mandatory;
+    scrollbar-width: none;
+}
+
+.reels-container::-webkit-scrollbar {
+    display: none;
+}
+.videodiv {
+    
+
+}
